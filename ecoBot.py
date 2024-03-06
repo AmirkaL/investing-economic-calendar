@@ -4,7 +4,7 @@ from selen import get_today_events, get_tomorrow_events, get_week_events
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import datetime
 
-API_TOKEN = '5870542751:AAEBXR9SX4Wd3KPAECzKepl5fIK3Gwd2O7Q'
+API_TOKEN = 'TOKEN'
 
 logging.basicConfig(level=logging.INFO)
 
